@@ -1,0 +1,51 @@
+User-agent: *
+
+
+Disallow: /post/_index.es/
+
+Disallow: /categories/
+
+Disallow: /tags/css/
+
+Disallow: /post/markdown-syntax.es/
+
+Disallow: /
+
+Disallow: /tags/html/
+
+Disallow: /tags/markdown/
+
+Disallow: /post/markdown-syntax/
+
+Disallow: /series/
+
+Disallow: /categories/syntax/
+
+Disallow: /tags/
+
+Disallow: /categories/themes/
+
+Disallow: /series/themes-guide/
+
+Disallow: /tags/privacy/
+
+Disallow: /post/rich-content/
+
+Disallow: /tags/shortcodes/
+
+Disallow: /post/placeholder-text/
+
+Disallow: /tags/text/
+
+Disallow: /post/math-typesetting/
+
+Disallow: /tags/emoji/
+
+Disallow: /post/emoji-support/
+
+Disallow: /about/
+
+Disallow: /contact/
+
+Disallow: /tags/index/
+

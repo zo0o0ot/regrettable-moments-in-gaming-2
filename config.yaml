@@ -1,0 +1,119 @@
+baseURL: https://example.com/
+title: Regrettable Moments in Gaming
+copyright: © Copyright 8-bits. All rights reserved.
+paginate: 3
+languageCode: en
+defaultContentLanguage: en
+enableInlineShortcodes: true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors: ["error-remote-getjson"]
+theme: hugo-8bits-theme
+
+# sectionPagesMenu: main
+
+enableRobotsTXT: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+# OpenGraph
+description: "8-bits cool description"
+images: ["site-feature-image.jpg"]
+
+# Google Analytics
+# googleAnalytics: "UA-123-45"
+
+# Disqus
+disqusShortname: "yourdiscussshortname"
+
+# Parameters
+params:
+  dateFormat: 2006.01.02
+  author: Miguel Simoni
+  showSubheader: false
+
+  copyright:
+    sinceYear: 2020
+    owner: Miguel Simoni
+
+  languagesMenuEnabled: false
+
+  breadcrumb:
+    showCurrent: true
+
+  pagination:
+    loader: true
+
+  # OpenGraph
+  title: "My cool site"
+  description: "Text about my cool site"
+  images: ["site-feature-image.jpg"]
+
+  # Social Networks
+  social:
+    - network: twitter
+      link: "#"
+    - network: facebook
+      link: "#"
+    - network: instagram
+      link: "#"
+    - network: github
+      link: "#"
+    - network: google
+      link: "#"
+    - network: gmail
+      link: "#"
+    - network: medium
+      link: "#"
+    - network: linkedin
+      link: "#"
+    - network: twitch
+      link: "#"
+    - network: youtube
+      link: "#"
+    - network: reddit
+      link: "#"
+    - network: whatsapp
+      link: "#"
+
+  # Google Analytics
+  # googleAnalytics: "UA-123-45"
+
+  # Disqus
+  disqusShortname: "yourdiscussshortname"
+
+  # Contact Form
+  contact:
+    formAction: "#"
+    validation:
+      namePattern: ^[a-zA-Z]{3,}[a-zA-Z\s\-]*$
+      emailPattern: ^[a-zA-Z0-9_\-\.]+@[a-zA-Z0-9_\-]+\.[a-zA-Z]{2,4}(\.[a-zA-Z]{2})?$
+
+  background:
+    image: "background-astro.png"
+    parallax: true
+    speed: 10
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
