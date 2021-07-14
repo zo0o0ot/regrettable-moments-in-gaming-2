@@ -10,7 +10,7 @@ enableInlineShortcodes: true
 ignoreErrors: ["error-remote-getjson"]
 theme: hugo-8bits-theme
 
-# sectionPagesMenu: main
+sectionPagesMenu: main
 
 enableRobotsTXT: true
 
@@ -20,7 +20,7 @@ taxonomies:
   series: series
 
 # OpenGraph
-description: "8-bits cool description"
+description: "Regrettable moments in gaming"
 images: ["site-feature-image.jpg"]
 
 # Google Analytics
@@ -32,12 +32,12 @@ disqusShortname: "yourdiscussshortname"
 # Parameters
 params:
   dateFormat: 2006.01.02
-  author: Miguel Simoni
+  author: TanookiZoot
   showSubheader: false
 
   copyright:
-    sinceYear: 2020
-    owner: Miguel Simoni
+    sinceYear: 2021
+    owner: TanookiZoot
 
   languagesMenuEnabled: false
 
@@ -56,22 +56,22 @@ params:
   social:
     - network: twitter
       link: "#"
-    - network: facebook
-      link: "#"
+    # - network: facebook
+    #  link: "#"
     - network: instagram
       link: "#"
     - network: github
       link: "#"
-    - network: google
-      link: "#"
-    - network: gmail
-      link: "#"
+    # - network: google
+    #  link: "#"
+    # - network: gmail
+    #  link: "#"
     - network: medium
       link: "#"
     - network: linkedin
       link: "#"
     - network: twitch
-      link: "#"
+      link: "https://www.twitch.tv/tanookizoot"
     - network: youtube
       link: "#"
     - network: reddit
