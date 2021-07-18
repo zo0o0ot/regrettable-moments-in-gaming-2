@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://regrettable-moments-in-gaming.github.io/
 title: Regrettable Moments in Gaming
 copyright: © Copyright 8-bits. All rights reserved.
 paginate: 3
@@ -55,35 +55,35 @@ params:
   # Social Networks
   social:
     - network: twitter
-      link: "#"
+      link: "https://twitter.com/rosslarsonWI"
     # - network: facebook
     #  link: "#"
-    - network: instagram
-      link: "#"
+    # - network: instagram
+    #  link: "#"
     - network: github
-      link: "#"
+      link: "https://github.com/zo0o0ot"
     # - network: google
     #  link: "#"
     # - network: gmail
     #  link: "#"
-    - network: medium
-      link: "#"
-    - network: linkedin
-      link: "#"
+    # - network: medium
+    #  link: "#"
+    # - network: linkedin
+    #  link: "#"
     - network: twitch
       link: "https://www.twitch.tv/tanookizoot"
-    - network: youtube
-      link: "#"
-    - network: reddit
-      link: "#"
-    - network: whatsapp
-      link: "#"
+    # - network: youtube
+    #  link: "#"
+    # - network: reddit
+    #  link: "#"
+    # - network: whatsapp
+    #  link: "#"
 
   # Google Analytics
   # googleAnalytics: "UA-123-45"
 
   # Disqus
-  disqusShortname: "yourdiscussshortname"
+  disqusShortname: "https-regrettable-moments-in-gaming-github-io"
 
   # Contact Form
   contact:
