@@ -10,4 +10,4 @@ What happens when you accidentally invite a Troll to your house? A regrettable m
 
 {{< youtube id="7j899_GlOlo" title="A housewarming party should not include Trolls." >}}
 
-This originally appeared on Twitch, courtesy of TanookiZoot (myself).
+This originally appeared on Twitch, courtesy of TanookiZoot (myself). 

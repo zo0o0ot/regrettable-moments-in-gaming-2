@@ -27,7 +27,7 @@ images: ["site-feature-image.jpg"]
 googleAnalytics: "G-TV6KPWKGND"
 
 # Disqus
-disqusShortname: "yourdiscussshortname"
+disqusShortname: "https-regrettable-moments-in-gaming-github-io"
 
 # Parameters
 params:
@@ -39,7 +39,7 @@ params:
     sinceYear: 2021
     owner: TanookiZoot
 
-  languagesMenuEnabled: false
+  languagesMenuEnabled: true
 
   breadcrumb:
     showCurrent: true
@@ -87,7 +87,7 @@ params:
 
   # Contact Form
   contact:
-    formAction: "#"
+    formAction: "https://formspree.io/f/xbjqazwy"
     validation:
       namePattern: ^[a-zA-Z]{3,}[a-zA-Z\s\-]*$
       emailPattern: ^[a-zA-Z0-9_\-\.]+@[a-zA-Z0-9_\-]+\.[a-zA-Z]{2,4}(\.[a-zA-Z]{2})?$
@@ -117,3 +117,30 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+
+# Menu
+languages:
+  en:
+    languageName: English
+    weight: 10
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: ""
+        weight: 10
+      - identifier: posts
+        name: Posts
+        url: posts
+        weight: 50
+      - identifier: contact
+        name: Contact
+        url: contact
+        weight: 90
+      - identifier: about
+        name: About
+        url: about
+        weight: 100
+    params:
+      navigation:
+        help: Help
