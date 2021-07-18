@@ -125,10 +125,6 @@ languages:
     weight: 10
     menu:
       main:
-      - identifier: home
-        name: Home
-        url: ""
-        weight: 10
       - identifier: posts
         name: Posts
         url: posts
