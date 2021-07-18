@@ -24,7 +24,7 @@ description: "Regrettable moments in gaming"
 images: ["site-feature-image.jpg"]
 
 # Google Analytics
-# googleAnalytics: "UA-123-45"
+googleAnalytics: "G-TV6KPWKGND"
 
 # Disqus
 disqusShortname: "yourdiscussshortname"
