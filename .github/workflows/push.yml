@@ -1,4 +1,4 @@
-name: Deploy to Remote Branch
+name: Deploy to GitHub Pages
 
 on:
   push:
