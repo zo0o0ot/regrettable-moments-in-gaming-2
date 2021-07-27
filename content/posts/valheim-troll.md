@@ -4,7 +4,7 @@ date: 2021-07-18T19:25:31Z
 draft: false
 ---
 
-Hello, THAT Conference!
+Hello, THAT Conference! You are all wonderful!
 
 What happens when you accidentally invite a Troll to your house? A regrettable moment in gaming.
 
